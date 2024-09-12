@@ -1,0 +1,7 @@
+NewYork 47 100 1
+LA/LasVegas 57 100 1
+Toronto/Sydney 34 100 1
+London 61 100 1
+Aries 30 100 1
+Gemini 11 100 1
+Cancer 20 100 1
